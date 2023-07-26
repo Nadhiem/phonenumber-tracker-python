@@ -2,9 +2,7 @@
 
 Hi Guys , This just a simple desktop application made using **Tkinter** for them aim of tracking the country through phone number.
 
-Full Article 
---------------
-The full article on how on how to build a phone number tracker is originally published on [my blog](kalebujordan.com) with an article named [How to track phone number in Python](https://kalebujordan.com/how-to-track-phone-number-in-python/) 
+
 
 ## Let's get started 
 
@@ -39,17 +37,5 @@ Running our app
 $~ python3 app.py
 ```
 
-### Output 
-
-You should have the output as hown in the image below 
-
-![Phone number Tracke](image2.png)
-
-### Share it and Give it a star 
-
-If you find it useful, you can give it a star and share with your fellow peers on what you have achieved 
 
 
-Credits
------------
-All the credits to [kalebu](github.com/kalebu)
